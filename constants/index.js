@@ -79,13 +79,13 @@ export const insights = [
     imgUrl: '/njitt.png',
     title: 'New Jersey Institute of Technology | SWE Intern',
     subtitle:
-      'Developed a neural network simulating the C. elegans nervous system using a Raspberry Pi autonomous vehicle. Programmed in Python and MATLAB for statistical analysis. Worked with another intern to over the course of 6 weeks to complete the project.',
+      'Developed a neural network simulating the C. elegans nervous system using a Raspberry Pi autonomous vehicle. Programmed in Python and MATLAB for statistical analysis. Worked with another intern over the course of 6 weeks to complete the project.',
   },
   {
     imgUrl: '/leb.png',
     title: 'Lebanese Forces | Software Engineering & Data',
     subtitle:
-      'Assisted in the development of a web application for the Lebanese Forces to allow overseas voters to cast their vote. Programmed in React, TypeScript, and MongoDB.This application verified the voter’s identity and allowed them to cast their vote.',
+      'Assisted in the development of a web application for the Lebanese Forces to allow overseas voters to cast their vote. Programmed in React, TypeScript, and MongoDB. This application verifies the voter’s identity and allowed them to cast their vote.',
   },
 ];
 
@@ -93,17 +93,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'https://twitter.com/abdo_eth',
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: 'https://www.linkedin.com/in/christopher-abdo/',
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: 'github',
+    url: '/git.svg',
+    link: 'https://www.github.com/ChrisAbdo',
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'lens',
+    url: '/lenss.svg',
+    link: 'https://www.lensfrens.xyz/chrisabdo.lens',
   },
 ];
